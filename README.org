@@ -1,0 +1,6 @@
+Yi Jing fortune generator and mailer.
+
+* Tech Stack
++ Angular.js
++ Node + Express
++ SQL + Sequelize
