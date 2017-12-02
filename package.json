@@ -1,0 +1,22 @@
+{
+  "name": "yijing",
+  "version": "0.0.1",
+  "description": "Yi Jing fortune generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Wen Riccardi-Zhu",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.7",
+    "bootstrap": "^3.3.7",
+    "sequelize": "^4.23.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.9.1"
+  }
+}
